@@ -1,16 +1,24 @@
-### Hi there 👋
+# I'm a front-end developer. Hi! 👋
 
-<!--
-**Nycolaide/Nycolaide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+28 y.o.  •  :fr: :us: 
 
-Here are some ideas to get you started:
+Trusted technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 React, Svelte, Vue
+- 🌐 TypeScript, JavaScript
+- 🛠️ Vite, Rollup, Webpack
+- 🚦 Git, Docker, StoryBook
+- 🔍 Jest/Vitest, Cypress
+
+Connect with me on [LinkedIn](https://linkedin.com/in/grimaldilaurent)!
+
+<hr />
+
+<div align="center"><sub>
+
+My musical playlist for work on my [Youtube Music](https://music.youtube.com/playlist?list=PLcuwjYZE7RhwZ_o6AZAztF_6Z9vHFFEaZ&si=9PclLpBW9vnu1ASj).
+
+<sub>Thank you for reading this far ❤️</sub>
+
+</div>
+
