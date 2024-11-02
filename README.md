@@ -1,6 +1,6 @@
 # I'm a front-end developer. Hi! 👋
 
-28 y.o.  •  :fr: :us: 
+29 y.o.  •  :fr: :us: 
 
 Trusted technologies:
 
@@ -11,7 +11,7 @@ Trusted technologies:
 - 🚦 Git, Docker, StoryBook
 - 🔍 Jest/Vitest, Cypress
 
-Connect with me on [LinkedIn](https://linkedin.com/in/grimaldilaurent)!
+Connect with me on [LinkedIn](https://linkedin.com/in/nycolaide)!
 
 <hr />
 
@@ -24,7 +24,7 @@ Currently I'm developing a component library for svelte and sveltekit in order t
 
 <div align="center"><sub>
 
-My musical playlist for work on my [Apple Music](https://music.apple.com/fr/playlist/coding/pl.u-8aAVXDaFvMaDGdk).
+My musical playlist for work on my [Youtube Music](https://music.youtube.com/playlist?list=PLcuwjYZE7RhzyPYDkDgBWdNplYBgnwHCM&si=rFzTTRJacjPD0H7G).
 
 <sub>Thank you for reading this far ❤️</sub>
 
